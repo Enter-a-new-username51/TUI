@@ -40,8 +40,8 @@ xychart-beta
 # Ogólna Ocena: 87,5
 
 Do zrobienia (w sensie, że ja mam do zrobienia):
-[ ] Dodanie nowych kontrolek
-[ ] Rozbicie kodu na kilka plików .hpp
-[ ] Ułatwienie obsługi zdarzeń dla użytkownika
-[ ] Wprowadzić beta
-[ ] Wprowadzić release
+- [ ] Dodanie nowych kontrolek
+- [ ] Rozbicie kodu na kilka plików .hpp
+- [ ] Ułatwienie obsługi zdarzeń dla użytkownika
+- [ ] Wprowadzić beta
+- [ ] Wprowadzić release
