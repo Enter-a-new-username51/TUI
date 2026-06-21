@@ -1,6 +1,6 @@
-# 🚀 TUI
+# TUI v0.0.1 - Alpha
 
-> TUI, które crashuje się częściej niż Windows 11. 
+> TUI, które crashuje się częściej niż Windows 11.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Enter-a-new-username51/TUI)
 ![GitHub language count](https://img.shields.io/github/languages/count/Enter-a-new-username51/TUI)
@@ -38,3 +38,10 @@ xychart-beta
 ```
 
 # Ogólna Ocena: 87,5
+
+Do zrobienia (w sensie, że ja mam do zrobienia):
+[ ] Dodanie nowych kontrolek
+[ ] Rozbicie kodu na kilka plików .hpp
+[ ] Ułatwienie obsługi zdarzeń dla użytkownika
+[ ] Wprowadzić beta
+[ ] Wprowadzić release
