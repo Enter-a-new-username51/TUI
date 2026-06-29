@@ -21,7 +21,7 @@ xychart-beta
     bar [0, 0, -1, 3]
 ```
 
-# Ogólna Ocena: 87,5
+# Ogólna Ocena: 0/100
 
 Do zrobienia (w sensie, że ja mam do zrobienia):
 - [ ] Dodanie nowych kontrolek
