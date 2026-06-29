@@ -13,7 +13,7 @@ LIBS = kernel32.lib user32.lib advapi32.lib ntdll.lib shell32.lib
 
 # --- Pliki projektu ---
 TARGET = Test_For_TUI.exe
-OBJS   = main.obj
+OBJS   = main.obj TUI_Controls.obj TUI_Core.obj
 
 # --- Reguły ---
 
